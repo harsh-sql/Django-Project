@@ -1,0 +1,11 @@
+asgiref==3.7.2
+certifi==2023.7.22
+distlib==0.3.7
+Django==4.2.5
+django-mobile==0.7.0
+filelock==3.12.4
+pipenv==2023.10.3
+platformdirs==3.11.0
+sqlparse==0.4.4
+tzdata==2023.3
+virtualenv==20.24.5
